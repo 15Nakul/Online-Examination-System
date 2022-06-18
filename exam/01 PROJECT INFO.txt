@@ -1,0 +1,14 @@
+
+ made by Nakul duevdi(1911981236)
+
+To run this online examination project
+- Install : pip install -r requirements.txt
+- Then, make database migrations: python manage.py makemigrations
+- python manage.py migrate
+- And finally, run the application: python manage.py runserver
+
+for admin control we have to make super user through terminal, so that we can approve teacher accounts.
+
+**For Contact Us Page**
+Google has turned off the security guidelines which is less secure app access is turned off by default .
+ so, contact us page might not be able to work further.
